@@ -37,10 +37,14 @@
 ### 🔥 &nbsp;My QA Stats
  
 <div align="center">
- 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Minoli24&theme=dark&background=000000)](https://git.io/streak-stats)
- 
+
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Minoli24&theme=dark&background=000000)](https://git.io/streak-stats)  
+
+🔥 **Consistency is Key**: Showcasing dedication and persistence in every project and contribution!  
+💻 **Committed to Excellence**: Continuously pushing the boundaries of automation and testing.  
+
 </div>
+
  
 ---
  
