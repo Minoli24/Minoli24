@@ -73,6 +73,15 @@
 ![IntelliJ IDEA](https://img.shields.io/badge/-IntelliJ%20IDEA-05122A?style=flat&logo=intellij-idea&logoColor=white)&nbsp;
  
 ---
+
+### 🎯 &nbsp;My Current Focus  
+
+- 🚀 **Mastering Selenium with Java for automation frameworks**  
+- 🧪 **Exploring advanced techniques in API and UI testing**  
+- 📘 **Learning Playwright for modern end-to-end testing**  
+- 🌱 **Expanding my skills in cloud-based testing**  
+
+---
  
 ### 📈 &nbsp;My Workflow Philosophy
  
